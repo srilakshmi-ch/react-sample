@@ -1,0 +1,163 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Chitti srilakshmi chandika",
+                "role":"student",
+                "email":"chitti.sri006@gmail.com",
+                "mobile":"+91 9888786789",
+                "gender":"female",
+                "address":"kakinada, Andrapradesh",
+                "careerobjectve":"To join an organization that will recognize and utilize my skills fully and offer me aresponsible position requiring innovative and creative ideas where continuous growth andlearning which in turn helps to improve and upgrade my skills and enhance my career.",
+                "skills": [
+                      "js",
+
+                      "html",
+                       "c",
+                       "java",
+                       "css"
+                     ],
+               "Stength":[ "Capability to work for long hours",
+                " dedicated, determind, punctual and disciplined",
+                "fast Learner and a Hard Worker.",
+                "Very good listener and keen observer."
+               
+               ],
+               "Qualification":
+
+               [
+                   {
+                       "institute": "Z.P.H.S",
+                       "course": "ssc",
+                       "yop": "2015",
+                       "per": "9.2"
+                   },
+                   {
+                    "institute": "APT",
+                    "course": "Diploma",
+                    "yop": "2018",
+                    "per": "9.3"
+                },
+                {
+                    "institute": "VSM",
+                    "course": "B.Tech",
+                    "yop": "2021",
+                    "per": "9"
+                }
+               ],
+               "hobbies": [
+                   "Reading books",
+                   "learning new stuff",
+                   "playing games"
+               ]
+            }
+        },
+        {
+            "basics":{
+                "name":"Chitti srilakshmi he",
+                "role":"student",
+                "email":"chitti.sri006@gmail.com",
+                "mobile":"+91 9888786789",
+                "gender":"female",
+                "address":"kakinada, Andrapradesh",
+                "careerobjectve":"To join an organization that will recognize and utilize my skills fully and offer me aresponsible position requiring innovative and creative ideas where continuous growth andlearning which in turn helps to improve and upgrade my skills and enhance my career.",
+                "skills": [
+                      "js",
+
+                      "html",
+                       "c",
+                       "java",
+                       "css"
+                     ],
+               "Stength":[ "Capability to work for long hours",
+                " dedicated, determind, punctual and disciplined",
+                "fast Learner and a Hard Worker.",
+                "Very good listener and keen observer."
+               
+               ],
+               "Qualification":
+
+               [
+                   {
+                       "institute": "Z.P.H.S",
+                       "course": "ssc",
+                       "yop": "2015",
+                       "per": "9.2"
+                   },
+                   {
+                    "institute": "APT",
+                    "course": "Diploma",
+                    "yop": "2018",
+                    "per": "9.3"
+                },
+                {
+                    "institute": "VSM",
+                    "course": "B.Tech",
+                    "yop": "2021",
+                    "per": "9"
+                }
+               ],
+               "hobbies": [
+                   "Reading books",
+                   "learning new stuff",
+                   "playing games"
+               ]
+            }
+        },
+        {
+            "basics":{
+                "name":"Venkat Sagi",
+                "role":"student",
+                "email":"chitti.sri006@gmail.com",
+                "mobile":"+91 9888786789",
+                "gender":"female",
+                "address":"kakinada, Andrapradesh",
+                "careerobjectve":"To join an organization that will recognize and utilize my skills fully and offer me aresponsible position requiring innovative and creative ideas where continuous growth andlearning which in turn helps to improve and upgrade my skills and enhance my career.",
+                "skills": [
+                      "js",
+
+                      "html",
+                       "c",
+                       "java",
+                       "css"
+                     ],
+               "Stength":[ "Capability to work for long hours",
+                " dedicated, determind, punctual and disciplined",
+                "fast Learner and a Hard Worker.",
+                "Very good listener and keen observer."
+               
+               ],
+               "Qualification":
+
+               [
+                   {
+                       "institute": "Z.P.H.S",
+                       "course": "ssc",
+                       "yop": "2015",
+                       "per": "9.2"
+                   },
+                   {
+                    "institute": "APT",
+                    "course": "Diploma",
+                    "yop": "2018",
+                    "per": "9.3"
+                },
+                {
+                    "institute": "VSM",
+                    "course": "B.Tech",
+                    "yop": "2021",
+                    "per": "9"
+                }
+               ],
+               "hobbies": [
+                   "Reading books",
+                   "learning new stuff",
+                   "playing games"
+               ]
+            }
+        }
+
+
+    ]
+    
+}
